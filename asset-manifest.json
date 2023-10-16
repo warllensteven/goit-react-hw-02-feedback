@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/goit-react-hw-01-components/static/js/main.14748b1b.js",
-    "index.html": "/goit-react-hw-01-components/index.html",
-    "main.14748b1b.js.map": "/goit-react-hw-01-components/static/js/main.14748b1b.js.map"
+    "main.js": "/goit-react-hw-02-feedback/static/js/main.14748b1b.js",
+    "index.html": "/goit-react-hw-02-feedback/index.html",
+    "main.14748b1b.js.map": "/goit-react-hw-02-feedback/static/js/main.14748b1b.js.map"
   },
   "entrypoints": [
     "static/js/main.14748b1b.js"
